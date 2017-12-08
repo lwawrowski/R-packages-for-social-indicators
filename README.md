@@ -1,3 +1,8 @@
 R packages for social indicators
 =
-Presentation for european R users meeting in Poznan - 13-14.09.2016
+laeken - https://cran.r-project.org/package=laeken
+vardpoor - https://cran.r-project.org/package=vardpoor
+convey - https://cran.r-project.org/package=convey
+ineq - https://cran.r-project.org/package=ineq
+rtip - https://cran.r-project.org/package=rtip
+IC2 - https://cran.r-project.org/package=IC2
